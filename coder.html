@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+    <link href="styles.css" rel="stylesheet">
+    <link href="coder.css" rel="stylesheet">
+    <title>Ali Alsadadi</title>
+    <link rel="icon" type="image/x-icon" href="favicon.png">
+    <script src="index.js"></script>
+</head>
+<body>
+    <div class="container-md">
+        <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-dark" id = "navbr">
+          <div class="container-fluid">
+            <a class="navbar-brand">
+              <img src="A.png" alt="" width="30" height="24" class="d-inline-block align-text-top">
+              Al$@d@d!
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+              <ul class="navbar-nav">
+                <li class="nav-item">
+                  <a class="nav-link" aria-current="page" href="index.html">
+                    Home</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link active" href="coder.html">The coder</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="hacker.html">The hacker</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="terminator.html" tabindex="-1" aria-disabled="true">The terminator</a>
+                </li>
+                <li class="nav-item">
+                  <button class="btn btn-default" id ="dark-btn" onclick=dark()>Dark mode</button>
+                </li>
+                <li class="nav-item">
+                  <button class="btn btn-default" id ="light-btn" onclick=light()>Light mode</button>
+                </li>
+                <li class="nav-item">
+                  <div id="myNav" class="overlay">
+
+                    <!-- Button to close the overlay navigation -->
+                    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+                  
+                    <!-- Overlay content -->
+                    <div class="overlay-content">
+                      <a href="#">Email: recruit@spec.men</a>
+                      <a href="#">Contacs: +648 9727 9281</a>
+                    </div>
+                  
+                  </div>
+                  
+                  <!-- Use any element to open/show the overlay navigation menu -->
+                  <a class="nav-link" onclick=openNav()>Recruit me now</a>                  
+                </li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+    </div>
+    <div class="text-over-img">"<strong> Coding like poetry should be short and concise."~Alsadadi The coder</strong></div>
+    <img src="laptop&monitors.jpeg" class="img-fluid rounded mx-auto d-block" alt="Responsive image">
+    <div class="row row-cols-1 row-cols-md-2">
+        <div class="col mb-4">
+          <div class="card">
+            <img src="cs50x.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Cs50x</h5>
+              <p class="card-text">CS50 is an introductory course to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, created by Harvard University. CS50x is the online version of this course offered on edX.</p>
+              <a href="https://cs50.harvard.edu/x/2023/psets/8/homepage/" class="btn btn-primary stretched-link">My cs50x certificate</a>
+            </div>
+          </div>
+        </div>
+        <div class="col mb-4">
+          <div class="card">
+            <img src="leetcode.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Leetcode</h5>
+              <p class="card-text">LeetCode is a website that contains curated coding interview questions that are commonly asked in coding interviews for tech companies. It allows you to practice and prepare for technical interviews.</p>
+              <a href="https://leetcode.com/problemset/all/" class="btn btn-primary stretched-link">My Leetcode profile</a>
+            </div>
+          </div>
+        </div>
+        <div class="col mb-4">
+          <div class="card">
+            <img src="github.png" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Github</h5>
+              <p class="card-text">GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.</p>
+              <a href="https://github.com/aliaalsadadi" class="btn btn-primary stretched-link">My github profile</a>
+            </div>
+          </div>
+        </div>
+        <div class="col mb-4">
+          <div class="card">
+            <img src="cloud practitioner.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Cloud practitioner</h5>
+              <p class="card-text">The AWS Certified Cloud Practitioner certification is designed for individuals who have basic cloud computing knowledge and want to demonstrate their understanding of the AWS Cloud. It validates introductory-level competencies in the design and implementation of cloud-based solutions on AWS.</p>
+              <a href="#" class="btn btn-primary stretched-link">My Cloud practitioner certificate</a>
+            </div>
+          </div>
+        </div>
+      </div>
+</body>
+</html>

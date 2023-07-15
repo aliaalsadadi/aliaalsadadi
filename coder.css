@@ -1,0 +1,42 @@
+.img-fluid{
+    width: 84%;
+    height: 300px;
+}
+body{
+    background-color: black;
+    color:whitesmoke;
+}
+.nav-link{
+    color: white;
+    text-shadow: 1px 1px darkblue;
+}
+.active a{
+    color: red !important;
+}
+.text-over-img{
+    color: black;
+    text-decoration: wavy;
+    font-size: larger;
+    text-shadow:1px 1px red;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.card{
+    max-width: 500px;
+}
+.card img{
+    height: 400px;
+}
+.row{
+    position: absolute;
+    top: 45%;
+    left: 10%;
+}
+.card-text{
+    color: black;
+}
+.card-title{
+    color: black;
+}

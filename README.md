@@ -1,2 +1,2 @@
 # aliaalsadadi
-learning html,css and js
+Hey there! I’m Ali, a code-slinging, bug-busting software developer based in Bahrain. When I’m not busy turning coffee into code, I’m probably over-engineering my side projects or convincing my computer that "just one more bug fix" won’t hurt. I’ve got a knack for turning complex problems into simple solutions—or at least making them look that way! Whether it’s front-end, back-end, or somewhere in between, I’m all about creating awesome, user-friendly apps that people love (or at least tolerate).

@@ -1,6 +1,6 @@
 # aliaalsadadi
 <h1 align="center">Hi 👋, I'm Ali Alsadadi</h1>
-<h3 align="center">A Digital craftsman (Software Developer) based in Bahrain</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=A+Digital+craftsman+(Software+Developer))](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliaalsadadi&label=Profile%20views&color=0e75b6&style=flat" alt="aliaalsadadi" /> </p>
 

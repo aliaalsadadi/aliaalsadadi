@@ -1,6 +1,6 @@
 # aliaalsadadi
 <h1 align="center">Hi 👋, I'm Ali Alsadadi</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliaalsadadi&label=Profile%20views&color=0e75b6&style=flat" alt="aliaalsadadi" /> </p>
 

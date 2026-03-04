@@ -59,8 +59,5 @@
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliaalsadadi&show_icons=true&locale=en&layout=compact" alt="aliaalsadadi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliaalsadadi&show_icons=true&locale=en" alt="aliaalsadadi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliaalsadadi&" alt="aliaalsadadi" /></p>
